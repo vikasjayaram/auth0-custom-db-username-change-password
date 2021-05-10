@@ -9,7 +9,7 @@ Sample for custom change password flow for unique usernames and duplicate emails
 
 - [Get Auth0 Management Token](https://auth0.com/docs/tokens/management-api-access-tokens)
 - [Create password reset  ticket](https://auth0.com/docs/api/management/v2/Tickets/post_password_change)
-- [Get reset email template](https://auth0.com/docs/api/management/v2/Email_Templates/get_email_templates_by_templateName
+- [Get reset email template](https://auth0.com/docs/api/management/v2/Email_Templates/get_email_templates_by_templateName)
 
 
 ## What is Auth0?
