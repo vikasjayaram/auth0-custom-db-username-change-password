@@ -5,6 +5,13 @@ Sample for custom change password flow for unique usernames and duplicate emails
 
 ![Image of Change Password Flow](https://github.com/vikasjayaram/auth0-custom-db-username-change-password/blob/master/diagrams/Change%20Password%20flow.jpeg)
 
+## Auth0 Endpoints invoked in the above workflow
+
+- [Get Auth0 Management Token](https://auth0.com/docs/tokens/management-api-access-tokens)
+- [Create password reset  ticket](https://auth0.com/docs/api/management/v2/Tickets/post_password_change)
+- [Get reset email template](https://auth0.com/docs/api/management/v2/Email_Templates/get_email_templates_by_templateName
+
+
 ## What is Auth0?
 
 Auth0 helps you to:
