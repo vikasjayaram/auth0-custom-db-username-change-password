@@ -1,4 +1,4 @@
-# auth0-custom-db-username-change-password
+# Auth0 Custom DB Username Change Password
 Sample for custom change password flow for unique usernames and duplicate emails using custom dabase in non import mode
 
 ## High Level Workflow
