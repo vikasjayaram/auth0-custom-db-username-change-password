@@ -1,0 +1,28 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "CHange password workflow for unique user names and non unique emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth0",
+    "custom",
+    "database"
+  ],
+  "author": "vikasjayaram",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "auth0-extension-tools": "^1.5.2",
+    "body-parser": "^1.19.0",
+    "dotenv": "^9.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "liquid-node": "^3.0.1",
+    "mongodb": "^3.6.6",
+    "nodemailer": "^6.6.0",
+    "nodemailer-smtp-transport": "^2.4.2"
+  }
+}
