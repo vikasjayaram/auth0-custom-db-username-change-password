@@ -1,4 +1,4 @@
-## Set Up
+## Setup
 
 To run the sample locally:
 
