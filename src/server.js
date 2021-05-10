@@ -224,4 +224,4 @@ function workflow(user, req, cb) {
         else return cb(null, 'done');
     });
 };
-server.listen(8080, () => console.log("MFA Companion Application running on port 8080"));
+server.listen(8080, () => console.log("Application running on port 8080"));
