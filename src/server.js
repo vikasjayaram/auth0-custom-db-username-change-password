@@ -104,7 +104,7 @@ function workflow(user, req, cb) {
     /*
     * Constants
     */
-    var EMAIL_FROM = "noreply@skymom";
+    var EMAIL_FROM = "noreply@skymomentum.com.au";
     var EMAIL_SUBJECT = "Set your Password";
 
     /*
